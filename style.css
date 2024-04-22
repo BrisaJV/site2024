@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="cabeçalho">
+        <img class="cabeçalho-imagem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWTcpg8hP_IGl42QfwGZXVDOk3sECbMqQjbIDXEB94w&s">
+        <ul class="cabeçalho-lista-item">
+            <li class="cabeçalho-lista-item">Enredo</li>
+            <li class="cabeçalho-lista-item">Personagens</li>
+            <li class="cabeçalho-lista-item">Premições</li>
+            <li class="cabeçalho-lista-item">Verba</li>
+        </ul>
+    </header>
+</body>
+</html>
